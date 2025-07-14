@@ -1,0 +1,17 @@
+[
+  {
+    "hash": "a856c0ad18023f7bf219142d96c8c1e8a95a00a698f423970e3a35ee2e0c204b",
+    "path": "./sample_files\\a.txt",
+    "status": "duplicate"
+  },
+  {
+    "hash": "a856c0ad18023f7bf219142d96c8c1e8a95a00a698f423970e3a35ee2e0c204b",
+    "path": "./sample_files\\c.txt",
+    "status": "duplicate"
+  },
+  {
+    "hash": "1561444fca8b8c2ab83fd9dd65798cb4030c08ca0c4643a3b5a03e7b6b9f5e73",
+    "path": "./sample_files\\b.txt",
+    "status": "unique"
+  }
+]
